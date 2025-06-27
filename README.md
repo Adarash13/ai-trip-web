@@ -48,7 +48,7 @@
   Developer of the Full-Stack Trip Planner Web App.  
   [GitHub Profile](https://github.com/Adarash13) | [LinkedIn](https://www.linkedin.com/in/adarsh-sainath-h-26baa5307/)
 
-  - **Jayanthan B N**  
+- **Jayanthan B N**  
   Developer of the Full-Stack Trip Planner Web App.  
   [GitHub Profile](https://github.com/Jayanthan23) | [LinkedIn](https://www.linkedin.com/in/jayanthan-b-n-792949276/recent-activity/all/)
 
