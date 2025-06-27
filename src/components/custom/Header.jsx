@@ -46,7 +46,10 @@ function Header() {
 
   return (
     <div className='shadow-sm flex justify-between items-center px-6'>
-      <img src="/logo.svg" alt="Logo" />
+      {/* <div className='flex items-center gap-2 justify-center text-center font-serif font-bolder'> */}
+      <img src="/lo.png" alt="Logo" className='h-16'/>
+      {/* <span className='text-5xl text-left'>TRIPEASE</span> */}
+      {/* </div> */}
       <div>
         {user ?
           <div className='flex items-center gap-3'>
@@ -76,7 +79,7 @@ function Header() {
         <DialogContent>
           <DialogHeader>
             <DialogDescription>
-              <img src="/logo.svg" alt="logo" width="100px" className='items-center' />
+              <img src="/logo.png" alt="logo" width="100px" className='items-center' />
               <h2 className='font-bold text-lg'>Sign In to check out your travel plan</h2>
               <p>Sign in to the App with Google authentication securely</p>
               <Button
