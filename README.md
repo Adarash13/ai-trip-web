@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-<a href="" target="_blank">📱 Visit this Project</a>
+<a href="http://ai-trip-web-seven.vercel.app/" target="_blank">📱 Visit this Project</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
