@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-<a href="https://ai-trip-planner-barika.vercel.app/" target="_blank">📱 Visit this Project</a>
+<a href="" target="_blank">📱 Visit this Project</a>
 </h3> <br>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -44,22 +44,16 @@
 
 <p>
 Home Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/1.1.png" alt="">
+<img src="https://github.com/Adarash13/ai-trip-web/asset/1.1.png" alt="">
 
 Google OAuth Sign in:
-  <img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/2.png" alt="">
+<img src="https://github.com/Adarash13/ai-trip-web/asset/2.png" alt="">
   
-Create Trip Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/4.4.png" alt="">
 
-View Trip Page: AI-generated Hotel Recommendations & Places to Visit
-<="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/7.png" alt="" width="75%" align="center">
 
-My Trips Page:
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/6.png" alt="">
 
-Responsive view on mobile: <br>
-<img src="https://github.com/barika001/ai-trip-planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
+
+
 </p>
  
 
