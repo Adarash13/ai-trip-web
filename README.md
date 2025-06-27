@@ -39,8 +39,7 @@
 - Data Storage: Persistent storage of user trip data in Firebase Firestore.
 - Travel Itineraries: Detailed daily travel plans including attractions, timings, and ticket pricing.
 
- 
-<br><h2 id="layout">🎨 Layout</h2>
+
 
 
 <h2 id="pre">🗁 Prerequisites</h2>
