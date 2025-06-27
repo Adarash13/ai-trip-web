@@ -44,7 +44,7 @@
 
 <p>
 Home Page:
-<img src="https://github.com/Adarash13/ai-trip-web/asset/1.1.png" alt="">
+<img src="[https://github.com/Adarash13/ai-trip-web/asset/1.1.png](https://github.com/Adarash13/ai-trip-web/blob/b24314024515bca4780e928f9ed2d8891634480e/public/landing.png)" alt="">
 
 Google OAuth Sign in:
 <img src="https://github.com/Adarash13/ai-trip-web/asset/2.png" alt="">
