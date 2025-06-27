@@ -1,4 +1,3 @@
-                  
 <h1 align="center" style="font-weight: bold;">Full-Stack Trip Planner Web App</h1>
 
 <p align="center">
@@ -6,11 +5,9 @@
 <a href="#features">Features |</a>
 <a href="#layout">Layout |</a>
 <a href="#pre">Prerequisites</a>
- 
 </p>
 
 <p align="center">A full-stack web application that helps users plan their trips by providing AI-powered recommendations for travel itineraries, places to visit, and hotels. This app integrates Google Generative AI for dynamic travel planning, Firebase for data storage, and Google Places API for fetching detailed information about places and hotels. </p>
-
 
 <h3 align="center">
 <a href="http://ai-trip-web-seven.vercel.app/" target="_blank">📱 Visit this Project</a>
@@ -39,11 +36,14 @@
 - Data Storage: Persistent storage of user trip data in Firebase Firestore.
 - Travel Itineraries: Detailed daily travel plans including attractions, timings, and ticket pricing.
 
-
-
-
 <h2 id="pre">🗁 Prerequisites</h2>
 
 - Node.js & npm
 - Firebase Project: Set up a Firebase project and configure Firestore and Authentication. Obtain your Firebase configuration keys.
 - Google API Keys: Obtain API keys for Google Generative AI and Google Places API.
+
+<h2 id="author">👤 Author</h2>
+
+- **Adarsh Sainath H**  
+  Developer of the Full-Stack Trip Planner Web App.  
+  [GitHub Profile](https://github.com/Adarash13) | [LinkedIn](https://www.linkedin.com/in/adarsh-sainath-h-26baa5307/)
