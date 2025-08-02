@@ -8,7 +8,7 @@ A full-stack web application that helps users plan their trips by providing **AI
 
  📌 Table of Contents
 
-- [Technologies](#technologies)
+- [Technologies](#Technologies)
 - [Features](#features)
 - [Folder Structure](#folder-structure)
 - [Prerequisites](#prerequisites)
