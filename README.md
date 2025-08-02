@@ -162,6 +162,17 @@ Developer of the Full-Stack Trip Planner Web App
 Developer of the Full-Stack Trip Planner Web App
 [GitHub](https://github.com/Jayanthan23) | [LinkedIn](https://www.linkedin.com/in/jayanthan-b-n-792949276/)
 
+Chinmay Gowda B S
+
+Additional tester
+[GitHub](https://github.com/Adarash13) | [LinkedIn](https://www.linkedin.com/in/adarsh-sainath-h-26baa5307/)
+
+ Kushal Gowda G
+
+Tester 
+[GitHub](https://github.com/Jayanthan23) | [LinkedIn](https://www.linkedin.com/in/jayanthan-b-n-792949276/)
+
+
 ---
 
  📄 License
